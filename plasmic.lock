@@ -1,0 +1,74 @@
+{
+  "projects": [
+    {
+      "projectId": "4iTnSBPg3xS5vBBZH844Lg",
+      "version": "latest",
+      "dependencies": {},
+      "lang": "js",
+      "fileLocks": [
+        {
+          "type": "globalVariant",
+          "assetId": "abu932rEWZ04H",
+          "checksum": "18cc92012d857694feb44bd6be639aac"
+        },
+        {
+          "assetId": "4iTnSBPg3xS5vBBZH844Lg",
+          "type": "projectCss",
+          "checksum": "9bd241130cb075e91c68ecca506a5b8d"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "Gs1pjNgOB-Pc",
+          "checksum": "86aa240959af75109016dd307b422782"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "Gs1pjNgOB-Pc",
+          "checksum": "86aa240959af75109016dd307b422782"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "pFCLT0g1c9Y",
+          "checksum": "8b0065048b928a6aa5924e9d65713aee"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "pFCLT0g1c9Y",
+          "checksum": "8b0065048b928a6aa5924e9d65713aee"
+        },
+        {
+          "type": "icon",
+          "assetId": "U_5gp1bozaW",
+          "checksum": "3b0d74cdc71f353e78f1f47b1542a71e"
+        },
+        {
+          "type": "icon",
+          "assetId": "XRwYnI9lnYU",
+          "checksum": "97019f65989c253a30972c26959237f2"
+        },
+        {
+          "type": "icon",
+          "assetId": "jLPEpt7Zeno",
+          "checksum": "fe5c880525c687fe3f79276ec4de49cc"
+        },
+        {
+          "type": "icon",
+          "assetId": "y2uHsOWvpxN",
+          "checksum": "964ffb5b9fe444042bdde27f90a5f78a"
+        },
+        {
+          "type": "icon",
+          "assetId": "9wxg_7dkeXj",
+          "checksum": "c6899b0115bd859a332877d0c4985aa0"
+        },
+        {
+          "type": "image",
+          "assetId": "2LgInLWTvhr",
+          "checksum": "32bff87cb6d1ec71057a135c77924f15"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    }
+  ],
+  "cliVersion": "0.1.186"
+}
